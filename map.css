@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+div {
+	display: block;
+    margin: auto;
+	width: 50%;
+	justify-content: center;
+	display: flex;
+	margin-top: 130px;
+	
+}
+
+p {
+ text-align: center;
+}
